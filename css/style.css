@@ -338,6 +338,8 @@ ul p {
 .first-card:hover .overlay {
     visibility: visible;
     cursor: pointer;
+    background-color: black;
+    opacity: 0.3;
 }
 
 .fa-play-circle {
@@ -486,7 +488,7 @@ footer {
 
 .player.play {
     border: 1px solid white;
-    padding: 6px;
+    padding: 7px;
     border-radius: 50%;
 }
 
