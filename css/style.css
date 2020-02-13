@@ -281,7 +281,7 @@ ul p {
     height: 2px;
     background-color: #121212;
     text-align: center;
-    margin-left: 42px;
+    margin-left: 17px;
 }
 
 .yellow-line3 {
@@ -297,15 +297,15 @@ ul p {
 }
 
 .specific-link:hover .yellow-line {
-    background-color: yellow;
+    background-color: green;
 }
 
 .specific-link:hover .yellow-line2 {
-    background-color: yellow;
+    background-color: green;
 }
 
 .specific-link:hover .yellow-line3 {
-    background-color: yellow;
+    background-color: green;
 }
 
 .recently h3 {
